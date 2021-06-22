@@ -10,5 +10,6 @@
 
 ## 谁还不是个文艺青年啊
 [坚持](https://github.com/lyx-jay/Blogs/issues/7)
+[代码真是让人沮丧啊！](https://github.com/lyx-jay/Blogs/issues/8)
 
 ## 不正经的读书笔记
